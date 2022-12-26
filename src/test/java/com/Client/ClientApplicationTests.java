@@ -1,10 +1,10 @@
-package com.smartshop.product;
+package com.Client;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class UsersApplicationTests {
+class ClientApplicationTests {
 
 	@Test
 	void contextLoads() {
